@@ -1,0 +1,45 @@
+respostas
+
+1.Quais são as entidades necessárias?
+
+entidades empresa,tecnologia,colaborador,registro
+
+2.Quais são os principais campos e seus respectivos tipos? 
+
+os valores serão apresentados num formato (entidade:tipo;campo)    
+(empresa:cnpj;numerico)
+(tecnologia:id;numerico)
+(colaborador:matricula;numerico)
+(registro:id;numerico)
+
+3.Como essas entidades estão relacionadas?
+
+empresa esta vinculada a colaborador pelo cnpj
+colaborador esta vinculado a registro pela matricula
+tecnologia esta vinculada a registro pelo id 
+
+4.Simule 2 registros para cada entidade
+
+empresa
+
+cnpj,nome,segmento
+21.786.344/0001-33.,orange,varejo
+32.465.341/0002-23.,redblock,construção
+
+colaborador
+
+matricula,nome,cargo,cnpj_empresa
+001,rogerio,analista,21.786.344/0001-33
+002,marcio,frontend,32.465.341/0002-23.
+
+tecnologia
+
+id,nome,area
+1,vscode,dados
+2,photoshop,marketing
+
+registros
+
+id,matricula_colaborador,id_tecnologia,data
+1,001,1,20/06/2023
+2,002,2,15/06/2023
