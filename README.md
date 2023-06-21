@@ -71,12 +71,16 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 
 ### 4 simulação  de registros nas entidades
 
+
+
 #### empresa
 
 | *cnpj* | *nome* | *segmento*|
 |:----:|:----:|:-------:|
 | 21.786.344/0001-33. | orange | varejo |
 | 32.465.341/0002-23.| redblock | construção|
+
+
 
 #### colaborador
 
@@ -85,12 +89,16 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 | 001 | rogerio | analista | 21.786.344/0001-33|
 | 002 | marcio | frontend | 32.465.341/0002-23.|
 
+
+
 #### tecnologia
 
 | *id* | *nome* | *area* |
 |:----:|:----:|:-------:|
 | 1  | vscode | dados |
 | 2 | photoshop | marketing|
+
+
 
 #### registros
 
@@ -99,3 +107,7 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 | 1 | 001 | 1 | 20/06/2023 |
 | 2 | 002 | 2 | 15/07/2023 |
 
+
+## conclusão 
+
+esse trabalho foi um grande desafio espero ter cumprido com todos os requisitos e agradeço a Paciência por ter lido ate aqui
