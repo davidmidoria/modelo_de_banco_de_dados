@@ -56,7 +56,7 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 
 | *entidade* | *campo* | *tipo* |
 |:--------:|:-----:|:----:|
-| empresa  | cnpj  | integer |
+| empresa  | cnpj  | varchar |
 | tecnologia | id | integer |
 | colaborador | matricula | integer |
 | registro | id | integer|
@@ -68,4 +68,34 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 * colaborador esta vinculado a registro pela matricula
 
 * tecnologia esta vinculada a registro pelo id
+
+### 4 simulação  de registros nas entidades
+
+#### empresa
+
+| *cnpj* | *nome* | *segmento*|
+|:----:|:----:|:-------:|
+| 21.786.344/0001-33. | orange | varejo |
+| 32.465.341/0002-23.| redblock | construção|
+
+#### colaborador
+
+| *matricula*| *nome* | *cargo* | *cnpj_empresa*|
+|:----:|:----:|:-------:|
+| 001 | rogerio | analista | 21.786.344/0001-33|
+| 002 | marcio | frontend | 32.465.341/0002-23.|
+
+#### tecnologia
+
+| *id* | *nome* | *area* |
+|:----:|:----:|:-------:|
+| 1  | vscode | dados |
+| 2 | photoshop | marketing|
+
+#### registros
+
+| *id* | *matricula_colaborador* | *id_tecnologia* | *data* |
+|:----:|:----:|:-------:|
+| 1 | 001 | 1 | 20/06/2023 |
+| 2 | 002 | 2 | 15/07/2023 |
 
