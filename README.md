@@ -61,3 +61,11 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 | colaborador | matricula | integer |
 | registro | id | integer|
 
+### 3 Como essas entidades estão relacionadas
+
+* empresa esta vinculada a colaborador pelo cnpj
+
+* colaborador esta vinculado a registro pela matricula
+
+* tecnologia esta vinculada a registro pelo id
+
