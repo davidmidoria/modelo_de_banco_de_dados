@@ -95,7 +95,7 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 #### registros
 
 | *id* | *matricula_colaborador* | *id_tecnologia* | *data* |
-|:----:|:----:|:-------:|
+|:----:|:----:|:-------:|:--:|
 | 1 | 001 | 1 | 20/06/2023 |
 | 2 | 002 | 2 | 15/07/2023 |
 
