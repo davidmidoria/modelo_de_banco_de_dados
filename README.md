@@ -108,6 +108,10 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 | 2 | 002 | 2 | 15/07/2023 |
 
 
+### ferramentas utilizadas
+* draw.io
+* vscode
+
 ## conclusão 
 
 esse trabalho foi um grande desafio espero ter cumprido com todos os requisitos e agradeço a Paciência por ter lido ate aqui
