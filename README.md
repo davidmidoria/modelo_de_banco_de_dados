@@ -27,9 +27,12 @@ Com essas melhorias, o modelo lógico está estruturado e pronto para a implemen
 
 ## Requisitos
 
-para criação desse banco de dados foram necessários quatro passos, é dai se transformaram 
+para a criação do banco de dados era necessario responder quatro requisitos 
 
-1.Quais são as entidades necessárias?
-2.Quais são os principais campos e seus respectivos tipos?
-3.Como essas entidades estão relacionadas?
-4.Simule 2 registros para cada entidade
+1.lista as entidades necessarias
+
+2.listar os campos e seus tipo
+
+3.demonstrar o relacionamento entre as tabelas
+
+4.Simular 2 registros para cada entidade
