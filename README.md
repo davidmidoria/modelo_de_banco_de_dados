@@ -54,9 +54,10 @@ foram necessarias as seguintes entidades
 
 os valores serão listados no formato de uma tabela contendo as entdades,  campos e tipos
 
-| **entidade** | **campo** | **tipo** |
+| entidade | campo | tipo |
 |:--------:|------:|-----:|
 | empresa  | cnpj  | integer |
 | tecnologia | id | integer |
 | colaborador | matricula | integer |
-| registro | id | integer
+| registro | id | integer|
+| <span style="background-color: yellow;">Atributo 3</span> | <span style="background-color: yellow;">Atributo 4</span> |
