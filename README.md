@@ -10,4 +10,4 @@ Antes de criar um banco de dados, é fundamental desenvolver um modelo de banco 
 
 após isso o modelo passou por melhorias se tornando um diagrama no modelo logico ja contando com atributos chaves primarias estrangeiras e relacionamentos que estruturam nosso banco de dados
 
-![imagem do ](imagens_do_banco/)
+![imagem do ](imagens_do_banco/modelo_logico.png)
