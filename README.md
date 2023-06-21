@@ -55,10 +55,9 @@ foram necessarias as seguintes entidades
 os valores serão listados no formato de uma tabela contendo as entdades,  campos e tipos
 
 | entidade | campo | tipo |
-|:--------:|------:|-----:|
+|:--------:|:-----:|:----:|
 | empresa  | cnpj  | integer |
 | tecnologia | id | integer |
 | colaborador | matricula | integer |
 | registro | id | integer|
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
