@@ -4,10 +4,23 @@ Foi solicitado a criação de um banco de dados com o objetivo de analisar as te
 
 Antes de criar um banco de dados, é fundamental desenvolver um modelo de banco de dados. O primeiro passo foi a criação do modelo conceitual, levando em consideração os relacionamentos e a cardinalidade das entidades.
 
-## modelo conceitual
+## modelo conceitual. 
+
+O modelo conceitual é essencial para a estruturação do banco de dados, pois considera os relacionamentos entre as entidades e a cardinalidade desses relacionamentos. Ele proporcionará uma visão clara e organizada do domínio em estudo, permitindo identificar as principais entidades envolvidas e suas interações. Esse modelo servirá como base para o desenvolvimento do modelo relacional, que possibilitará a obtenção de insights valiosos a partir dos dados coletados.
+
 
 ![imagem do mmodelo conceitual ](imagens_do_banco/modelo_conceitual.png)
 
-após isso o modelo passou por melhorias se tornando um diagrama no modelo logico ja contando com atributos chaves primarias estrangeiras e relacionamentos que estruturam nosso banco de dados
+
+
+## modelo logico
+
+Após a criação do modelo conceitual, o próximo passo foi aprimorar o modelo e transformá-lo em um diagrama no modelo lógico. Nesse estágio, foram adicionados atributos, chaves primárias, chaves estrangeiras e relacionamentos que ajudaram a estruturar o banco de dados.
+
+O modelo lógico refina o modelo conceitual e o traduz em termos mais específicos, adequados para a implementação do banco de dados. Ele define as tabelas, os campos de cada tabela, os tipos de dados e as restrições associadas aos dados.
+
+Durante a criação do modelo lógico, foram identificadas as chaves primárias de cada tabela, que são os atributos únicos que identificam de forma exclusiva cada registro. Além disso, as chaves estrangeiras foram utilizadas para estabelecer relacionamentos entre as tabelas, permitindo a consulta e manipulação de dados relacionados.
+
+Com essas melhorias, o modelo lógico está estruturado e pronto para a implementação do banco de dados, fornecendo a base necessária para armazenar e analisar as informações sobre as tecnologias utilizadas pelas empresas e seus colaboradores.
 
 ![imagem do ](imagens_do_banco/modelo_logico.png)
