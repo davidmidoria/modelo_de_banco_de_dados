@@ -52,10 +52,11 @@ foram necessarias as seguintes entidades
 
 ### 2 principais campos e seus respectivos tipos
 
-os valores serão listados no formato de uma tabela contendo os campos e tipos
+os valores serão listados no formato de uma tabela contendo as entdades,  campos e tipos
 
 | entidade | campo | tipo |
 |:--------:|------:|-----:|
-| empresa  | cnpj  | numerico |
-
-
+| empresa  | cnpj  | integer |
+| tecnologia | id | integer |
+| colaborador | matricula | integer |
+| registro | id | integer
