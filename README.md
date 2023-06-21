@@ -29,10 +29,33 @@ Com essas melhorias, o modelo lógico está estruturado e pronto para a implemen
 
 para a criação do banco de dados era necessario responder quatro requisitos 
 
-1.lista as entidades necessarias
+1. listar as entidades necessarias
 
-2.listar os campos e seus tipo
+2. listar os campos e seus tipo
 
-3.demonstrar o relacionamento entre as tabelas
+3. demonstrar o relacionamento entre as tabelas
 
-4.Simular 2 registros para cada entidade
+4. Simular 2 registros para cada entidade
+
+
+### 1 entidades necessarias
+
+foram necessarias as seguintes entidades
+
+* empresa
+
+* tecnologia
+
+* colaborador
+
+* registro
+
+### 2 principais campos e seus respectivos tipos
+
+os valores serão listados no formato de uma tabela contendo os campos e tipos
+
+| entidade | campo | tipo |
+|:--------:|------:|-----:|
+| empresa  | cnpj  | numerico |
+
+

@@ -6,7 +6,7 @@ entidades empresa,tecnologia,colaborador,registro
 
 2.Quais são os principais campos e seus respectivos tipos? 
 
-os valores serão apresentados num formato (entidade:tipo;campo)    
+os valores serão apresentados num formato (entidade:campo;tipo)    
 (empresa:cnpj;numerico)
 (tecnologia:id;numerico)
 (colaborador:matricula;numerico)
