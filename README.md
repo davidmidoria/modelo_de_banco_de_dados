@@ -81,7 +81,7 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 #### colaborador
 
 | *matricula*| *nome* | *cargo* | *cnpj_empresa*|
-|:----:|:----:|:-------:|
+|:----:|:----:|:-------:|:----:|
 | 001 | rogerio | analista | 21.786.344/0001-33|
 | 002 | marcio | frontend | 32.465.341/0002-23.|
 
