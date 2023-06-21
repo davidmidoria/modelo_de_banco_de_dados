@@ -60,4 +60,5 @@ os valores serão listados no formato de uma tabela contendo as entdades,  campo
 | tecnologia | id | integer |
 | colaborador | matricula | integer |
 | registro | id | integer|
-| <span style="background-color: yellow;">Atributo 3</span> | <span style="background-color: yellow;">Atributo 4</span> |
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
