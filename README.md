@@ -1,4 +1,4 @@
-# modelo_de_banco_de_dados
+# modelo de banco de dados
 
 Foi solicitado a criação de um banco de dados com o objetivo de analisar as tecnologias utilizadas pelas empresas e seus colaboradores. Para isso, optou-se por criar um modelo relacional com a intenção de obter insights a partir dos dados coletados.
 
