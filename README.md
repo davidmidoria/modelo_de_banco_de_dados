@@ -2,7 +2,7 @@
 
 Foi solicitado a criação de um banco de dados com o objetivo de analisar as tecnologias utilizadas pelas empresas e seus colaboradores. Para isso, optou-se por criar um modelo relacional com a intenção de obter insights a partir dos dados coletados.
 
-Antes de criar um banco de dados, é fundamental desenvolver um modelo de banco de dados. O primeiro passo foi a criação do modelo conceitual, levando em consideração os relacionamentos e a cardinalidade das entidades.
+Antes de criar um banco de dados, é fundamental desenvolver um modelo de banco de dados. O primeiro passo foi a criação do modelo conceitual.
 
 ## modelo conceitual. 
 
