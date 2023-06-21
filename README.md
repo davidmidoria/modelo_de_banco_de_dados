@@ -13,7 +13,7 @@ O modelo conceitual é essencial para a estruturação do banco de dados, pois c
 
 
 
-## modelo logico
+## modelo lógico
 
 Após a criação do modelo conceitual, o próximo passo foi aprimorar o modelo e transformá-lo em um diagrama no modelo lógico. Nesse estágio, foram adicionados atributos, chaves primárias, chaves estrangeiras e relacionamentos que ajudaram a estruturar o banco de dados.
 
@@ -24,3 +24,12 @@ Durante a criação do modelo lógico, foram identificadas as chaves primárias 
 Com essas melhorias, o modelo lógico está estruturado e pronto para a implementação do banco de dados, fornecendo a base necessária para armazenar e analisar as informações sobre as tecnologias utilizadas pelas empresas e seus colaboradores.
 
 ![imagem do ](imagens_do_banco/modelo_logico.png)
+
+## Requisitos
+
+para criação desse banco de dados foram necessários quatro passos, é dai se transformaram 
+
+1.Quais são as entidades necessárias?
+2.Quais são os principais campos e seus respectivos tipos?
+3.Como essas entidades estão relacionadas?
+4.Simule 2 registros para cada entidade
